@@ -1,61 +1,16 @@
-# 🚀 N2: Protótipo de Aplicativo para Chamada Automatizada
+# chamada_automatizada_n10
 
-Este projeto é um protótipo funcional de um aplicativo móvel para automatização da chamada em sala de aula, desenvolvido como parte da avaliação N2.
+A new Flutter project.
 
-## 🎯 Objetivo do Projeto
+## Getting Started
 
-O objetivo principal é projetar e modelar um aplicativo móvel que automatize o registro de presença dos alunos, sem a necessidade de intervenção manual do professor.
+This project is a starting point for a Flutter application.
 
-O protótipo da N2 foca em entregar uma aplicação funcional no emulador Android, simulando 4 rodadas de chamada por noite e implementando a lógica de negócio principal, incluindo a persistência de dados local e a simulação da automação das chamadas.
+A few resources to get you started if this is your first Flutter project:
 
-## 🛠️ Tecnologias Utilizadas
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-* **Flutter**
-* **Dart**
-* **VS Code** (como IDE)
-* **Android Emulator** (para execução e testes)
-* **Provider** (para gerenciamento de estado)
-* **Shared Preferences** (para persistência local de dados)
-
-## 💻 Como Executar o Protótipo
-
-**Pré-requisitos:**
-* Ter o [SDK do Flutter](https://flutter.dev/docs/get-started/install) instalado.
-* Ter o Android Studio instalado com um Emulador Android configurado.
-
-**Passos:**
-
-1.  Clone este repositório:
-    ```bash
-    git clone [URL_DO_SEU_REPOSITORIO]
-    ```
-
-2.  Navegue até a pasta do projeto:
-    ```bash
-    cd chamada_automatizada_n10
-    ```
-
-3.  Instale as dependências:
-    ```bash
-    flutter pub get
-    ```
-
-4.  Gere os arquivos de serialização (necessário para a persistência):
-    ```bash
-    flutter pub run build_runner build --delete-conflicting-outputs
-    ```
-
-5.  Inicie o Emulador Android.
-
-6.  Execute o aplicativo:
-    ```bash
-    flutter run
-    ```
-
-## 👥 Equipe (Grupo N2/N3)
-
-* **Heloísa Rebello Cabral**
-* **Heitor Reis**
-* **Henrique Xavier**
-* **Lucas Rogério Mendonça**
-* **Rodrigo Xavier**
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
