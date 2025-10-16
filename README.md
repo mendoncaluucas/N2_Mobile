@@ -4,16 +4,16 @@ Este projeto é um protótipo funcional de um aplicativo móvel para automatiza�
 
 ## 🎯 Objetivo do Projeto
 
-[cite_start]O objetivo principal é projetar e modelar um aplicativo móvel que automatize o registro de presença dos alunos, sem a necessidade de intervenção manual do professor[cite: 6].
+O objetivo principal é projetar e modelar um aplicativo móvel que automatize o registro de presença dos alunos, sem a necessidade de intervenção manual do professor.
 
-[cite_start]O protótipo da N2 foca em entregar uma aplicação funcional no emulador Android [cite: 7][cite_start], simulando 4 rodadas de chamada por noite [cite: 8] e implementando a lógica de negócio principal, incluindo a persistência de dados local e a simulação da automação das chamadas.
+O protótipo da N2 foca em entregar uma aplicação funcional no emulador Android, simulando 4 rodadas de chamada por noite e implementando a lógica de negócio principal, incluindo a persistência de dados local e a simulação da automação das chamadas.
 
 ## 🛠️ Tecnologias Utilizadas
 
-* [cite_start]**Flutter** [cite: 2]
-* [cite_start]**Dart** [cite: 2]
-* [cite_start]**VS Code** [cite: 2] (como IDE)
-* [cite_start]**Android Emulator** [cite: 2] (para execução e testes)
+* **Flutter**
+* **Dart**
+* **VS Code** (como IDE)
+* **Android Emulator** (para execução e testes)
 * **Provider** (para gerenciamento de estado)
 * **Shared Preferences** (para persistência local de dados)
 
