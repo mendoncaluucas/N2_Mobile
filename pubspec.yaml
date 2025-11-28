@@ -1,0 +1,42 @@
+name: chamada_automatizada_n10
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Icones padrao
+  cupertino_icons: ^1.0.8
+
+  # Gerenciamento de Estado e Utils
+  provider: ^6.1.5+1
+  shared_preferences: ^2.5.3
+  intl: ^0.20.2
+
+  # Firebase
+  firebase_core: ^4.2.1
+  cloud_firestore: ^6.1.0
+
+  # JSON (Apenas a anotação fica aqui)
+  json_annotation: ^4.9.0
+  path_provider: ^2.1.5
+  share_plus: ^12.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Lints (Regras de boa pratica)
+  flutter_lints: ^5.0.0
+
+  # Geradores de Código (Devem ficar aqui em dev_dependencies)
+  build_runner: ^2.9.0
+  json_serializable: ^6.11.1
+
+flutter:
+  uses-material-design: true
