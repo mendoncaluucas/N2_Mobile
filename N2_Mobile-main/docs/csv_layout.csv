@@ -1,0 +1,6 @@
+student_id,student_name,date,round,status,recorded_at,notes,validation_method
+001,João Silva,2025-10-30,1,Presente,19:35:21,,GPS
+002,Maria Oliveira,2025-10-30,1,Atrasado,19:41:08,Chegou tarde,QR Code
+003,Lucas Santos,2025-10-30,2,Ausente,20:10:00,,Reconhecimento Facial
+004,Ana Pereira,2025-10-30,2,Presente,20:00:33,,QR Code
+005,Bruno Costa,2025-10-30,3,Presente,20:45:50,Participou normalmente,GPS
